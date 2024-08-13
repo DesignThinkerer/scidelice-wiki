@@ -1,2 +1,2 @@
 # scidelice-wiki
-Knowledge base for tiddlywiki
+Knowledge base for scidelice
